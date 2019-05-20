@@ -93,16 +93,6 @@
 		'showTail' : true
 	});
 
-	if (s.imAdv.show) {
-		s.imSplashBox.id = 'splashbox-advcorner';
-		s.imSplashBox.position = 'bottom-left';
-		s.imSplashBox.effect = 'animated swing';
-		s.imSplashBox.cookie = false;
-		s.imSplashBox.link = function () { x5engine.utils.location('tel:+79044445595'); };
-		s.imSplashBox.shadow = false;
-		s.imSplashBox.media = { "type": "image", "url": "images/promo.jpg", "width": 262, "height": 159 };
-	x5engine.boot.push(function () { x5engine.imSplashBox(x5engine.settings.imSplashBox); });
-	}
 	// Captcha
 	b.push(function () {
 		x5engine.captcha.instance = new x5engine.captcha.x5captcha({
