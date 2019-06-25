@@ -1251,6 +1251,10 @@
 .imSiteMap img { vertical-align: text-bottom; }
 .imSiteMap li { padding: 5px 0 5px 20px; }
 .imSiteMap img { vertical-align: text-bottom; }
+.imSiteMap li { padding: 5px 0 5px 20px; }
+.imSiteMap img { vertical-align: text-bottom; }
+.imSiteMap li { padding: 5px 0 5px 20px; }
+.imSiteMap img { vertical-align: text-bottom; }
 @media (min-width: 1350px) {
 	#imSitemapPage { box-sizing: border-box; width: 1350px; margin-left: auto; margin-right: auto; padding: 0 5px 0 5px; }
 	
