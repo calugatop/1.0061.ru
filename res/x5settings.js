@@ -101,8 +101,8 @@
 	}, false, 'first');
 
 	// BreakPoints
-	s.breakPoints.push({ "hash": "109d9c55488f57648723888edea2381c", "name": "BreakPoint", "start": "max", "end": 1330, "fluid": false});
-	s.breakPoints.push({ "hash": "3c37be834888b614ad5debf0922be0fd", "name": "BreakPoint", "start": 1329, "end": 1030, "fluid": false});
+	s.breakPoints.push({ "hash": "c4f8ef2e5f5cb7ef64ac4509790ae3c1", "name": "BreakPoint", "start": "max", "end": 1270, "fluid": false});
+	s.breakPoints.push({ "hash": "3c37be834888b614ad5debf0922be0fd", "name": "BreakPoint", "start": 1269, "end": 1030, "fluid": false});
 	s.breakPoints.push({ "hash": "4a9db15d731d54703ffe00355007a345", "name": "BreakPoint", "start": 1029, "end": 800, "fluid": false});
 	s.breakPoints.push({ "hash": "49fa00e5652138ed84c72a7165cb0c7a", "name": "BreakPoint", "start": 799, "end": 480, "fluid": false});
 	s.breakPoints.push({ "hash": "5ecdcca63de80fd3d4fbb36295d22b7d", "name": "Mobile Fluid", "start": 479, "end": 0, "fluid": true});

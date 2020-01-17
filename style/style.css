@@ -103,10 +103,10 @@ textarea { resize: none; }
 .topic-star-fixer-small { height: 16px; }
 .topic-pagination { text-align: center; margin: 7px 0; }
 .variable-star-rating { cursor: pointer; }
-#media-query-to-js { position: absolute; display: none; }@media (min-width: 1330px) {
-	#media-query-to-js { width: 1330px; }
+#media-query-to-js { position: absolute; display: none; }@media (min-width: 1270px) {
+	#media-query-to-js { width: 1270px; }
 }
-@media (max-width: 1329px) and (min-width: 1030px) {
+@media (max-width: 1269px) and (min-width: 1030px) {
 	#media-query-to-js { width: 1030px; }
 }
 @media (max-width: 1029px) and (min-width: 800px) {
