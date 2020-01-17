@@ -22,8 +22,8 @@
 			verticalScroll: false,
 			showCurrent: false,
 			showLogoOnScroll: true,
-			menuHeight: 36,
-			menuWidth: 140,
+			menuHeight: 22,
+			menuWidth: 150,
 			submenuHeight: 34,
 			submenuWidth: 170,
 			opacity: 0.8,
@@ -32,7 +32,7 @@
 			effect: 'fade'
 		});
 	});
-	b.push(function () { x.utils.imPreloadImages([p + 'menu/hor_main.png',p + 'menu/hor_main_h.png',p + 'menu/hor_main_c.png',p + 'menu/sub.png',p + 'menu/sub_h.png',p + 'menu/sub_f.png',p + 'menu/sub_m.png',p + 'menu/sub_l.png',p + 'menu/sub_f_h.png',p + 'menu/sub_m_h.png',p + 'menu/sub_l_h.png', p + 'res/imClose.png']); });
+	b.push(function () { x.utils.imPreloadImages([p + 'menu/hor_main.png',p + 'menu/hor_main_h.png',p + 'menu/hor_main_c.png', p + 'res/imClose.png']); });
 
 	// ShowBox
 	$.extend(s.imShowBox, {
