@@ -8,7 +8,9 @@ $imSettings['search']['general'] = array(
 	'defaultScope' => array(
 		'0' => 'index.html',
 		'4' => '2.html',
-		'5' => 'zdorovie.html'
+		'5' => 'zdorovie.html',
+		'6' => 'text.html',
+		'7' => 'games.html'
 	),
 	'extendedScope' => array(
 	)

@@ -24,4 +24,16 @@
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
+	<url>
+		<loc>http://1.0061.ru/text.html</loc>
+		<lastmod>2020-01-20</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://1.0061.ru/page-7.html</loc>
+		<lastmod>2020-01-20</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
 </urlset>
