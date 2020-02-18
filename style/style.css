@@ -12,7 +12,7 @@
 
 
 /* Page default */
-#imPage { font: normal normal normal 11pt 'Tahoma'; color: #000000; background-color: transparent; text-align: left; text-decoration: none; }
+#imPage { font: normal normal normal 11pt 'Tahoma'; color: #FFFFFF; background-color: transparent; text-align: left; text-decoration: none; }
 .text-tab-content { text-align: left; }
 body.wysiwyg { padding: 3px; font: normal normal normal 11pt 'Tahoma';  color: black; line-height: 1; }
 body.wysiwyg p { margin: 0; line-height: 21px; }
@@ -20,24 +20,24 @@ body.wysiwyg p { margin: 0; line-height: 21px; }
 
 
 /* Page Title */
-#imPgTitle, #imPgTitle a, .imPgTitle, .imPgTitle a { padding-top: 2px; padding-bottom: 2px; margin: 5px 0; font: normal normal bold 14pt 'Tahoma'; color: #253A58; background-color: transparent; text-align: left; text-decoration: none; }
+#imPgTitle, #imPgTitle a, .imPgTitle, .imPgTitle a { padding-top: 2px; padding-bottom: 2px; margin: 5px 0; font: normal normal bold 14pt 'Tahoma'; color: #FFFFFF; background-color: transparent; text-align: left; text-decoration: none; }
 #imPgTitle, .imPgTitle { border-width: 1px; border-style: solid; border-color: transparent transparent transparent transparent; }
 #imPgTitle.imTitleMargin, .imPgTitle.imTitleMargin { margin-left: 6px; margin-right: 6px; }
 
 
 /* Breadcrumb */
 .imBreadcrumb, #imBreadcrumb { display: none; }
-.imBreadcrumb, .imBreadcrumb a, #imBreadcrumb, #imBreadcrumb a { padding-top: 2px; padding-bottom: 2px; font: normal normal normal 7pt 'Tahoma'; color: #A9A9A9; background-color: transparent; text-align: left; text-decoration: none;  border-width: 1px; border-style: solid; border-color: transparent transparent transparent transparent}
-.imBreadcrumb a, .imBreadcrumb a:link, .imBreadcrumb a:hover, .imBreadcrumb a:visited, .imBreadcrumb a:active { color: #A9A9A9; }
+.imBreadcrumb, .imBreadcrumb a, #imBreadcrumb, #imBreadcrumb a { padding-top: 2px; padding-bottom: 2px; font: normal normal normal 7pt 'Tahoma'; color: #FFFFFF; background-color: transparent; text-align: left; text-decoration: none;  border-width: 1px; border-style: solid; border-color: transparent transparent transparent transparent}
+.imBreadcrumb a, .imBreadcrumb a:link, .imBreadcrumb a:hover, .imBreadcrumb a:visited, .imBreadcrumb a:active { color: #FFFFFF; }
 
 
 /* Links */
-.imCssLink:link, .imCssLink { background-color: transparent; color: #253A58; text-decoration: underline; }
-.imCssLink:visited { background-color: transparent; color: #0030BF; text-decoration: none; }
-.imCssLink:hover, .imCssLink:active, .imCssLink:hover, .imCssLink:active { background-color: transparent; color: #FF0000; text-decoration: underline; }
-.imAbbr:link { background-color: transparent; color: #253A58; border-bottom: 1px dotted #253A58; text-decoration: none; }
-.imAbbr:visited { background-color: transparent; color: #0030BF; text-decoration: none; }
-.imAbbr:hover, .imAbbr:active { background-color: transparent; color: #FF0000; border-bottom: 1px dotted #FF0000; text-decoration: none; }
+.imCssLink:link, .imCssLink { background-color: transparent; color: #FFFFFF; text-decoration: underline; }
+.imCssLink:visited { background-color: transparent; color: #FFFFFF; text-decoration: none; }
+.imCssLink:hover, .imCssLink:active, .imCssLink:hover, .imCssLink:active { background-color: transparent; color: #FFEFBF; text-decoration: underline; }
+.imAbbr:link { background-color: transparent; color: #FFFFFF; border-bottom: 1px dotted #FFFFFF; text-decoration: none; }
+.imAbbr:visited { background-color: transparent; color: #FFFFFF; text-decoration: none; }
+.imAbbr:hover, .imAbbr:active { background-color: transparent; color: #FFEFBF; border-bottom: 1px dotted #FFEFBF; text-decoration: none; }
 
 
 /* Bottom Menu */
@@ -87,7 +87,7 @@ textarea { resize: none; }
 .prt_field { display: none; }
 .topic-summary { margin: 10px auto 20px auto; text-align: center; }
 .topic-form { text-align: left; margin-bottom: 30px; }
-.topic-comment { margin: 0 0 10px 0; padding: 5px 0; border-bottom: 1px dotted #000000; }
+.topic-comment { margin: 0 0 10px 0; padding: 5px 0; border-bottom: 1px dotted #FFFFFF; }
 .topic-comments-count { font-weight: bold; margin: 10px 0 7px;}
 .topic-comments-user { margin-bottom: 5px; margin-right: 5px; font-weight: bold;}
 .topic-comments-abuse { margin: 5px 0 0 0; border: none; padding: 3px 0 0 0; text-align: right; }
