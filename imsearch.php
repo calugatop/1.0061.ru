@@ -2,7 +2,7 @@
 <!DOCTYPE html><!-- HTML5 -->
 <html prefix="og: http://ogp.me/ns#" lang="ru-RU" dir="ltr">
 	<head>
-		<title>Поиск - Закладки - Белая Калитва</title>
+		<title>Поиск - Закладки</title>
 		<meta charset="utf-8" />
 		<!--[if IE]><meta http-equiv="ImageToolbar" content="False" /><![endif]-->
 		<meta name="generator" content="Incomedia WebSite X5 Professional 13.1.8.23 - www.websitex5.com" />
@@ -10,7 +10,7 @@
 		<meta property="og:type" content="website" />
 		<meta property="og:url" content="http://1.0061.ru/imsearch.php" />
 		<meta property="og:title" content="Поиск" />
-		<meta property="og:site_name" content="Закладки - Белая Калитва" />
+		<meta property="og:site_name" content="Закладки" />
 		<meta property="og:image" content="http://1.0061.ru/favImage.png" />
 		<meta property="og:image:type" content="image/png">
 		<meta property="og:image:width" content="500">
@@ -22,7 +22,7 @@
 		<link rel="stylesheet" type="text/css" href="style/style.css?13-1-8-23" media="screen,print" />
 		<link rel="stylesheet" type="text/css" href="style/template.css?13-1-8-23" media="screen" />
 		<link rel="stylesheet" type="text/css" href="style/menu.css?13-1-8-23" media="screen" />
-		<link rel="stylesheet" type="text/css" href="pcss/imsearch.css?13-1-8-23-637150798918066000" media="screen,print" />
+		<link rel="stylesheet" type="text/css" href="pcss/imsearch.css?13-1-8-23-637176078494481000" media="screen,print" />
 		<script type="text/javascript" src="res/jquery.js?13-1-8-23"></script>
 		<script type="text/javascript" src="res/x5engine.js?13-1-8-23" data-files-version="13-1-8-23"></script>
 		<script type="text/javascript">
@@ -30,7 +30,7 @@
 			x5engine.utils.currentPagePath = 'imsearch.php';
 			x5engine.boot.push(function () { x5engine.utils.imCodeProtection(''); });
 		</script>
-		<link rel="icon" href="favicon.ico?13-1-8-23-637150798918066000" type="image/vnd.microsoft.icon" />
+		<link rel="icon" href="favicon.ico?13-1-8-23-637176078494471000" type="image/vnd.microsoft.icon" />
 		<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-153613837-2','auto');ga('send', 'pageview');</script>
 	</head>
 	<body>
@@ -72,6 +72,12 @@
 								<span class="imMnMnTxt"><span class="imMnMnImg"></span><span class="imMnMnTextLabel">Игры</span></span>
 							</span>
 						</a>
+					</li><li id="imMnMnNode8" class=" imPage">
+						<a href="rostov.html">
+							<span class="imMnMnFirstBg">
+								<span class="imMnMnTxt"><span class="imMnMnImg"></span><span class="imMnMnTextLabel">Ростов-на-Дону</span></span>
+							</span>
+						</a>
 					</li></ul>
 				</div>
 			</div>
@@ -98,7 +104,7 @@
 				<div id="imFooterObjects"><div id="imFooter_imTextObject_01_wrapper" class="template-object-wrapper"><div id="imFooter_imCell_1" class="" > <div id="imFooter_imCellStyleGraphics_1"></div><div id="imFooter_imCellStyle_1" ><div id="imFooter_imTextObject_01">
 	<div class="text-tab-content"  id="imFooter_imTextObject_01_tab0" style="">
 		<div class="text-inner">
-			<span class="fs16 ff1"><a href="text.html" class="imCssLink" onclick="return x5engine.utils.location('text.html', null, false)">ТЕКСТОВАЯ ВЕРСИЯ ЗАКЛАДОК</a> &nbsp;| &nbsp;РЕМОНТ КОМПЬЮТЕРОВ: 8-904-444-55-95</span>
+			<span class="fs16 ff1"><a href="text.html" class="imCssLink" onclick="return x5engine.utils.location('text.html', null, false)">ТЕКСТОВАЯ ВЕРСИЯ ЗАКЛАДОК</a> &nbsp;</span>
 		</div>
 	</div>
 
