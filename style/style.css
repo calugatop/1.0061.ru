@@ -81,6 +81,14 @@ textarea { resize: none; }
 .splashbox { position: fixed; padding: 0; background-color: transparent; border: none; }
 .splashbox img { cursor: pointer; }
 .splashbox .imClose { position: absolute; top: -10px; right: -10px; }
+
+
+/* Advertising Corner */
+
+
+/* Alert Box */
+#alertbox-advcorner { background-color: transparent; border: none; }
+#alertbox-advcorner .message-container { text-align: center; overflow: hidden; }
 #welcome-flags { margin: 0 auto; text-align: center; }
 #welcome-flags div { display: inline-block; margin: 10px; }
 #welcome-mediaplayertarget { overflow: hidden; }

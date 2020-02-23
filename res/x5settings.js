@@ -93,6 +93,13 @@
 		'showTail' : true
 	});
 
+	if (s.imAdv.show) {
+		s.imAdvBox.id = 'alertbox-advcorner';		s.imAdvBox.position = 'top';
+		s.imAdvBox.cookie = false;
+		s.imAdvBox.link = function () {  };
+		s.imAdvBox.media = { "type": "image", "url": "images/23-1.png", "width": 800, "height": 60 };
+		x5engine.boot.push("x5engine.alertBox(x5engine.settings.imAdvBox)");
+	}
 	// Captcha
 	b.push(function () {
 		x5engine.captcha.instance = new x5engine.captcha.x5captcha({
