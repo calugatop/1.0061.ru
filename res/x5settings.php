@@ -7,9 +7,9 @@
 */
 
 $imSettings['general'] = array(
-	'url' => 'http://1.0061.ru/',
-	'homepage_url' => 'http://1.0061.ru/index.html',
-	'icon' => 'http://1.0061.ru/favImage.png',
+	'url' => 'https://1.0061.ru/',
+	'homepage_url' => 'https://1.0061.ru/index.html',
+	'icon' => 'https://1.0061.ru/favImage.png',
 	'version' => '13.1.8.23',
 	'sitename' => 'Закладки',
 	'public_folder' => '',

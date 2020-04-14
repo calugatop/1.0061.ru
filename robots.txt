@@ -3,4 +3,4 @@ Disallow: /admin
 Disallow: /captcha
 Disallow: /menu
 Disallow: /imemail
-Sitemap: http://1.0061.ru/sitemap.xml
+Sitemap: https://1.0061.ru/sitemap.xml

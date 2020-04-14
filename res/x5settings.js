@@ -22,8 +22,8 @@
 			verticalScroll: false,
 			showCurrent: false,
 			showLogoOnScroll: true,
-			menuHeight: 22,
-			menuWidth: 150,
+			menuHeight: 24,
+			menuWidth: 120,
 			submenuHeight: 34,
 			submenuWidth: 170,
 			opacity: 0.8,
@@ -93,13 +93,6 @@
 		'showTail' : true
 	});
 
-	if (s.imAdv.show) {
-		s.imAdvBox.id = 'alertbox-advcorner';		s.imAdvBox.position = 'top';
-		s.imAdvBox.cookie = false;
-		s.imAdvBox.link = function () {  };
-		s.imAdvBox.media = { "type": "image", "url": "images/baner.jpg", "width": 1133, "height": 70 };
-		x5engine.boot.push("x5engine.alertBox(x5engine.settings.imAdvBox)");
-	}
 	// Captcha
 	b.push(function () {
 		x5engine.captcha.instance = new x5engine.captcha.x5captcha({
