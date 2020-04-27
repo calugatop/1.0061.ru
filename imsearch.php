@@ -22,7 +22,7 @@
 		<link rel="stylesheet" type="text/css" href="style/style.css?13-1-8-23" media="screen,print" />
 		<link rel="stylesheet" type="text/css" href="style/template.css?13-1-8-23" media="screen" />
 		<link rel="stylesheet" type="text/css" href="style/menu.css?13-1-8-23" media="screen" />
-		<link rel="stylesheet" type="text/css" href="pcss/imsearch.css?13-1-8-23-637216630818922000" media="screen,print" />
+		<link rel="stylesheet" type="text/css" href="pcss/imsearch.css?13-1-8-23-637235719602767637" media="screen,print" />
 		<script type="text/javascript" src="res/jquery.js?13-1-8-23"></script>
 		<script type="text/javascript" src="res/x5engine.js?13-1-8-23" data-files-version="13-1-8-23"></script>
 		<script type="text/javascript" src="sp-push-worker-fb.js"></script>
@@ -31,7 +31,7 @@
 			x5engine.utils.currentPagePath = 'imsearch.php';
 			x5engine.boot.push(function () { x5engine.utils.imCodeProtection(''); });
 		</script>
-		<link rel="icon" href="favicon.ico?13-1-8-23-637216630818922000" type="image/vnd.microsoft.icon" />
+		<link rel="icon" href="favicon.ico?13-1-8-23-637235719602728575" type="image/vnd.microsoft.icon" />
 		<script charset="UTF-8" src="//web.webpushs.com/js/push/deec8b8495676975409fea8d93e96a11_1.js" async></script>
 		<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-153613837-2','auto');ga('send', 'pageview');</script>
 	</head>
@@ -85,7 +85,7 @@
 					</li><li id="imMnMnNode8" class=" imPage">
 						<a href="page-8.html">
 							<span class="imMnMnFirstBg">
-								<span class="imMnMnTxt"><span class="imMnMnImg"></span><span class="imMnMnTextLabel">СКИДКА</span></span>
+								<span class="imMnMnTxt"><span class="imMnMnImg"></span><span class="imMnMnTextLabel">Кредиты</span></span>
 							</span>
 						</a>
 					</li></ul>
