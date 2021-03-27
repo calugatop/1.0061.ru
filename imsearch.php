@@ -22,17 +22,15 @@
 		<link rel="stylesheet" type="text/css" href="style/style.css?13-1-8-23" media="screen,print" />
 		<link rel="stylesheet" type="text/css" href="style/template.css?13-1-8-23" media="screen" />
 		<link rel="stylesheet" type="text/css" href="style/menu.css?13-1-8-23" media="screen" />
-		<link rel="stylesheet" type="text/css" href="pcss/imsearch.css?13-1-8-23-637279597037250000" media="screen,print" />
+		<link rel="stylesheet" type="text/css" href="pcss/imsearch.css?13-1-8-23-637524613056180000" media="screen,print" />
 		<script type="text/javascript" src="res/jquery.js?13-1-8-23"></script>
 		<script type="text/javascript" src="res/x5engine.js?13-1-8-23" data-files-version="13-1-8-23"></script>
-		<script type="text/javascript" src="sp-push-worker-fb.js"></script>
 		<script type="text/javascript">
 			window.onload = function(){ checkBrowserCompatibility('Ваш браузер не поддерживает функции, требуемые для визуализации этого Сайта.','Возможно, Ваш браузер не поддерживает функции, требуемые для визуализации этого Сайта.','[1]Обновите Ваш браузер[/1] или [2]продолжите процедуру [/2].','http://outdatedbrowser.com/'); };
 			x5engine.utils.currentPagePath = 'imsearch.php';
 			x5engine.boot.push(function () { x5engine.utils.imCodeProtection(''); });
 		</script>
-		<link rel="icon" href="favicon.ico?13-1-8-23-637279597037240000" type="image/vnd.microsoft.icon" />
-		<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-153613837-2','auto');ga('send', 'pageview');</script>
+		<link rel="icon" href="favicon.ico?13-1-8-23-637524613056170000" type="image/vnd.microsoft.icon" />
 	</head>
 	<body>
 		<div id="imHeaderBg"></div>
@@ -40,15 +38,7 @@
 		<div id="imPage">
 			<div id="imHeader">
 				
-				<div id="imHeaderObjects"><div id="imHeader_imObjectTitle_01_wrapper" class="template-object-wrapper"><div id="imHeader_imCell_1" class="" > <div id="imHeader_imCellStyleGraphics_1"></div><div id="imHeader_imCellStyle_1" ><div id="imHeader_imObjectTitle_01"><span id ="imHeader_imObjectTitle_01_text"><a href="index.html" onclick="return x5engine.utils.location('index.html', null, false)">1.0061.RU</a> </span > </div></div></div></div><div id="imHeader_imTextObject_02_wrapper" class="template-object-wrapper"><div id="imHeader_imCell_2" class="" > <div id="imHeader_imCellStyleGraphics_2"></div><div id="imHeader_imCellStyle_2" ><div id="imHeader_imTextObject_02">
-	<div class="text-tab-content"  id="imHeader_imTextObject_02_tab0" style="">
-		<div class="text-inner">
-			<span class="fs14 cf1 ff1">РЕМОНТ КОМПЬЮТЕРОВ: 8-904-444-55-95</span>
-		</div>
-	</div>
-
-</div>
-</div></div></div></div>
+				<div id="imHeaderObjects"><div id="imHeader_imObjectTitle_01_wrapper" class="template-object-wrapper"><div id="imHeader_imCell_1" class="" > <div id="imHeader_imCellStyleGraphics_1"></div><div id="imHeader_imCellStyle_1" ><div id="imHeader_imObjectTitle_01"><span id ="imHeader_imObjectTitle_01_text"><a href="index.html" onclick="return x5engine.utils.location('index.html', null, false)">1.0061.RU</a> </span > </div></div></div></div></div>
 			</div>
 			<a class="imHidden" href="#imGoToCont" title="Заголовок главного меню">Перейти к контенту</a>
 			<a id="imGoToMenu"></a><p class="imHidden">Главное меню:</p>
@@ -118,7 +108,7 @@
 	</div>
 
 </div>
-</div></div></div><div id="imFooter_imObjectTitle_02_wrapper" class="template-object-wrapper"><div id="imFooter_imCell_2" class="" > <div id="imFooter_imCellStyleGraphics_2"></div><div id="imFooter_imCellStyle_2" ><div id="imFooter_imObjectTitle_02"><span id ="imFooter_imObjectTitle_02_text">Хостинг 0061.RU </span > </div></div></div></div></div>
+</div></div></div><div id="imFooter_imObjectTitle_02_wrapper" class="template-object-wrapper"><div id="imFooter_imCell_2" class="" > <div id="imFooter_imCellStyleGraphics_2"></div><div id="imFooter_imCellStyle_2" ><div id="imFooter_imObjectTitle_02"><span id ="imFooter_imObjectTitle_02_text">GitHub </span > </div></div></div></div></div>
 			</div>
 		</div>
 		<span class="imHidden"><a href="#imGoToCont" title="Прочесть эту страницу заново">Назад к содержимому</a> | <a href="#imGoToMenu" title="Прочесть этот сайт заново">Назад к главному меню</a></span>
