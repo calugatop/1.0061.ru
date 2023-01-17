@@ -1,4 +1,8 @@
- body {
+body {
     margin: 5%; 
     padding: 2px;
    }
+div {
+  width: 150px; /* Ширина блока */
+  margin: 2px; /* Поля  вокруг элемента */
+}
