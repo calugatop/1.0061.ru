@@ -1,4 +1,5 @@
-/* General purpose WSX5's required classes */
+/* Classes */
+.images { margin:0 25% 0 25%; width:50%; }
 .imClear { visibility: hidden; clear: both; border: 0; margin: 0; padding: 0; }
 .imHidden { display: none; }
 .imCaptFrame { vertical-align: middle; }
